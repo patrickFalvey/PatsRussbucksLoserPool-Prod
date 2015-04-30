@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MyPoolList>
+  <User UserId="chillyerhotmailcom">
+    <EName>chillyerhotmailcom</EName>
+    <Loser>LoserPool</Loser>
+    <Playoff />
+  </User>
+  <User UserId="Georgehotmailcom">
+    <EName>Georgehotmailcom</EName>
+    <Loser>LoserPool</Loser>
+    <Playoff></Playoff>
+  </User>
+  <User UserId="lh4uhotmailcom">
+    <EName>lh4uhotmailcom</EName>
+    <Loser>LoserPool</Loser>
+    <Playoff></Playoff>
+  </User>
+  <User UserId="MandyHotmailcom">
+    <EName>MandyHotmailcom</EName>
+    <Loser>LoserPool</Loser>
+    <Playoff></Playoff>
+  </User>
+  <User UserId="PatHotmailcom">
+    <EName>PatHotmailcom</EName>
+    <Loser>LoserPool</Loser>
+    <Playoff />
+  </User>
+  <User UserId="Samhotmailcom">
+    <EName>Samhotmailcom</EName>
+    <Loser>LoserPool</Loser>
+    <Playoff />
+  </User>
+</MyPoolList>

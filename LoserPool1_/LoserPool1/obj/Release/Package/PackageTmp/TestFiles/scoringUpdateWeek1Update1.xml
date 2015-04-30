@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scores filetime="4:26 PM" filedate="4/29/2015" weeknumber="week1">
+  <game hometeam="cardinals" awayteam="chargers">
+    <homescore>17</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="seahawks" awayteam="packers">
+    <homescore>28</homescore>
+    <awayscore>35</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="falcons" awayteam="saints">
+    <homescore>12</homescore>
+    <awayscore>21</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="lions" awayteam="giants">
+    <homescore>17</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+</scores>

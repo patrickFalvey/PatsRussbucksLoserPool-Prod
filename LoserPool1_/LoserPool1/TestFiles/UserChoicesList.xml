@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserChoicesList>
+  <Week WeekId="week0">
+    <User UserId="lh4uhotmailcom" WeekId="week0">
+      <UserName>C4U</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="chillyerhotmailcom" WeekId="week0">
+      <UserName>Cory</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="Samhotmailcom" WeekId="week0">
+      <UserName>Sam</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="Georgehotmailcom" WeekId="week0">
+      <UserName>GeoBears</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="MandyHotmailcom" WeekId="week0">
+      <UserName>GreatfulRed</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="PatHotmailcom" WeekId="week0">
+      <UserName>BigBadBob</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+  </Week>
+  <Week WeekId="week1">
+    <User UserId="PatHotmailcom" WeekId="week1">
+      <UserName>BigBadBob</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="lh4uhotmailcom" WeekId="week1">
+      <UserName>C4U</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="chillyerhotmailcom" WeekId="week1">
+      <UserName>Cory</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="Samhotmailcom" WeekId="week1">
+      <UserName>Sam</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="Georgehotmailcom" WeekId="week1">
+      <UserName>GeoBears</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+    <User UserId="MandyHotmailcom" WeekId="week1">
+      <UserName>GreatfulRed</UserName>
+      <ConfirmationNumber>0</ConfirmationNumber>
+      <UserPick></UserPick>
+      <SeaHawks>true</SeaHawks>
+      <Packers>true</Packers>
+      <Falcons>true</Falcons>
+      <Saints>true</Saints>
+      <Chargers>true</Chargers>
+      <Cardinals>true</Cardinals>
+      <Lions>true</Lions>
+      <Giants>true</Giants>
+      <Contender>true</Contender>
+    </User>
+  </Week>
+</UserChoicesList>

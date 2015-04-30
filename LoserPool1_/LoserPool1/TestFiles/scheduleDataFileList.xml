@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedulefiles>
+  <file weeknumber="week1">
+    <filepath>C:\Users\Larry\Documents\GitHub\PatsRussbucksLoserPool-Prod\LoserPool1_\LoserPool1\TestFiles\scheduleFileWeek1.xml</filepath>
+  </file>
+  <file weeknumber="week2">
+    <filepath>C:\Users\Larry\Documents\GitHub\PatsRussbucksLoserPool-Prod\LoserPool1_\LoserPool1\TestFiles\scheduleFileWeek2.xml</filepath>
+  </file>
+  <file weeknumber="week3">
+    <filepath>C:\Users\Larry\Documents\GitHub\PatsRussbucksLoserPool-Prod\LoserPool1_\LoserPool1\TestFiles\scheduleFileWeek3.xml</filepath>
+  </file>
+</schedulefiles>

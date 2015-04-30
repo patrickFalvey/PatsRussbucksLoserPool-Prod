@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedule>
+  <week weekNumber="week3">
+    <game gameNumber="game1">
+      <homeTeam>cardinals</homeTeam>
+      <awayTeam>saints</awayTeam>
+      <startTime>9:07 AM</startTime>
+      <startDate>4/30/2015</startDate>
+    </game>
+    <game gameNumber="game2">
+      <homeTeam>lions</homeTeam>
+      <awayTeam>packers</awayTeam>
+      <startTime>9:07 AM</startTime>
+      <startDate>4/30/2015</startDate>
+    </game>
+    <game gameNumber="game3">
+      <homeTeam>seahawks</homeTeam>
+      <awayTeam>giants</awayTeam>
+      <startTime>9:07 AM</startTime>
+      <startDate>4/30/2015</startDate>
+    </game>
+    <game gameNumber="game4">
+      <homeTeam>falcons</homeTeam>
+      <awayTeam>chargers</awayTeam>
+      <startTime>9:07 AM</startTime>
+      <startDate>4/30/2015</startDate>
+    </game>
+  </week>
+</schedule>

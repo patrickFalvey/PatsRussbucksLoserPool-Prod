@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TeamList>
+  <Team TeamId="team1">
+    <TeamName>seahawks</TeamName>
+  </Team>
+  <Team TeamId="team2">
+    <TeamName>packers</TeamName>
+  </Team>
+  <Team TeamId="team3">
+    <TeamName>falcons</TeamName>
+  </Team>
+  <Team TeamId="team4">
+    <TeamName>saints</TeamName>
+  </Team>
+  <Team TeamId="team5">
+    <TeamName>chargers</TeamName>
+  </Team>
+  <Team TeamId="team6">
+    <TeamName>cardinals</TeamName>
+  </Team>
+  <Team TeamId="team7">
+    <TeamName>lions</TeamName>
+  </Team>
+  <Team TeamId="team8">
+    <TeamName>giants</TeamName>
+  </Team>
+</TeamList>

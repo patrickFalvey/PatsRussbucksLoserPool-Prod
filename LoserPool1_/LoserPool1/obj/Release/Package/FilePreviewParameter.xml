@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/LoserPool4" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="AppHostConfig" match="^Default\ Web\ Site/LosersPool4$" />
+    <parameterEntry kind="ProviderPath" scope="contentPath" match="^C:\\Users\\Larry\\Documents\\GitHub\\Russbucks-Test\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Larry\\Documents\\GitHub\\Russbucks-Test\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="IIS Web Application Pool Name" description="" value=".NET v4.5" tags="">
+    <parameterEntry kind="DeploymentObjectAttribute" scope="application" match="application[@applicationPool='.NET v4.5']/@applicationPool" />
+  </parameter>
+  <parameter name="IisVirtualDirectoryPhysicalPath" description="" value="C:\Users\Larry\Documents\GitHub\Russbucks-Test\LoserPool1_\LoserPool1_deploy" tags="PhysicalPath">
+    <parameterEntry kind="DestinationVirtualDirectory" scope=".*" match="^C:\\Users\\Larry\\Documents\\GitHub\\Russbucks-Test\\LoserPool1_\\LoserPool1$" />
+  </parameter>
+  <parameter name="LosersPool2-Test-Web.config Connection String" description="" value="Data Source=.\SQLEXPRESS;Initial Catalog=LosersPool2-Test;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Larry\\Documents\\GitHub\\Russbucks-Test\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LosersPool2-Test']/@connectionString" />
+  </parameter>
+  <parameter name="PlayoffPool2-Test-Web.config Connection String" description="" value="Data Source=.\SQLEXPRESS;Initial Catalog=PlayoffPool2-Test;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Larry\\Documents\\GitHub\\Russbucks-Test\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PlayoffPool2-Test']/@connectionString" />
+  </parameter>
+  <parameter name="Pools2-Test-Web.config Connection String" description="" value="Data Source=.\SQLEXPRESS;Initial Catalog=Pools2-Test;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Larry\\Documents\\GitHub\\Russbucks-Test\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Pools2-Test']/@connectionString" />
+  </parameter>
+  <parameter name="RussbucksMembership-Test-Web.config Connection String" description="" value="Data Source=.\SQLEXPRESS;Initial Catalog=RussbucksMembership-Test;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Larry\\Documents\\GitHub\\Russbucks-Test\\LoserPool1_\\LoserPool1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RussbucksMembership-Test']/@connectionString" />
+  </parameter>
+</parameters>

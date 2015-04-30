@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserList>
+  <User UserId="chillyerhotmailcom">
+    <UserName>Cory</UserName>
+    <Adminstrator>False</Adminstrator>
+    <OptionState />
+  </User>
+  <User UserId="Georgehotmailcom">
+    <UserName>GeoBears</UserName>
+    <Adminstrator>False</Adminstrator>
+    <OptionState>Enter Picks</OptionState>
+  </User>
+  <User UserId="lh4uhotmailcom">
+    <UserName>C4U</UserName>
+    <Adminstrator>True</Adminstrator>
+    <OptionState>Enter Picks</OptionState>
+  </User>
+  <User UserId="MandyHotmailcom">
+    <UserName>GreatfulRed</UserName>
+    <Adminstrator>False</Adminstrator>
+    <OptionState>Enter Picks</OptionState>
+  </User>
+  <User UserId="PatHotmailcom">
+    <UserName>BigBadBob</UserName>
+    <Adminstrator>False</Adminstrator>
+    <OptionState />
+  </User>
+  <User UserId="Samhotmailcom">
+    <UserName>Sam</UserName>
+    <Adminstrator>False</Adminstrator>
+    <OptionState />
+  </User>
+</UserList>

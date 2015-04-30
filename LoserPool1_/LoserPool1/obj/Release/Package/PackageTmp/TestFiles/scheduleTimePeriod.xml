@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scheduleTimePeriod>
+  <week weekNumber="week1">
+    <startWeekTime>12:01 AM</startWeekTime>
+    <startWeekDate>3/15/15</startWeekDate>
+    <startGameTime>9:30 AM</startGameTime>
+    <startGameDate>4/2/15</startGameDate>
+    <endGameTime />
+    <endGameDate />
+  </week>
+  <week weekNumber="week2">
+    <startWeekTime />
+    <startWeekDate />
+    <startGameTime>9:30 AM</startGameTime>
+    <startGameDate>4/8/15</startGameDate>
+    <endGameTime />
+    <endGameDate />
+  </week>
+  <week weekNumber="week3">
+    <startWeekTime />
+    <startWeekDate />
+    <startGameTime>9:30 AM</startGameTime>
+    <startGameDate>4/14/15</startGameDate>
+    <endGameTime />
+    <endGameDate />
+  </week>
+</scheduleTimePeriod>
